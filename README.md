@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a first year Ph.D. student at the UCLA Department of Mathematics hoping to study analysis. In my free time, I like to program and learn new technologies.
+I'm currently a third year Ph.D. student at the UCLA Department of Mathematics interested in random matrix theory.
 
 <!--
 **stevenktruong/stevenktruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
