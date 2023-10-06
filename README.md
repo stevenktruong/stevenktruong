@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a third year Ph.D. student at the UCLA Department of Mathematics interested in random matrix theory.
+I'm currently a fourth year Ph.D. student at the UCLA Department of Mathematics researching random matrix theory.
 
 <!--
 **stevenktruong/stevenktruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
